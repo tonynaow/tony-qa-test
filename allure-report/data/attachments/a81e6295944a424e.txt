@@ -1,0 +1,1 @@
+invalid selector: WebDriverError: Could not parse selector expression `new UiSelector().//android.webkit.WebView[@text="Crésus"]`: No opening parenthesis after method name at position 17 when running "element" with method "POST" and args "{"using":"-android uiautomator","value":" //android.webkit.WebView[@text=\"Crésus\"]"}"

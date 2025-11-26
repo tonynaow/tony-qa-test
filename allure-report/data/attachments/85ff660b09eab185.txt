@@ -1,0 +1,1 @@
+Error: WebDriverError: Request with GET/HEAD method cannot have body. when running "touch/perform" with method "GET" and args "{"actions":[{"action":"press","options":{"x":540,"y":1938}},{"action":"wait","options":{"ms":200}},{"action":"moveTo","options":{"x":540,"y":342}},{"action":"release"}]}"

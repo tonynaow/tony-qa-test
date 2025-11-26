@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiScrollable(new UiSelector().className(\"android.webkit.WebView\").scrollable(true)).setMaxSearchSwipes(5).flingToEnd(5)"
+}

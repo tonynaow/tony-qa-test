@@ -1,0 +1,34 @@
+# Dépendances Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Rapports / résultats de tests (générés, sauf rapports finaux)
+allure-results/
+test-results/
+
+# Caches / builds
+.cache/
+coverage/
+dist/
+
+# Config éditeurs / IDE
+.idea/
+.vscode/
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'environnement (secrets)
+.env
+.env.*
+
+# APK (décommente si tu ne veux pas les versionner)
+# apk/

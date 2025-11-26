@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiSelector().resourceId(\"pcs-footer-container-readmore-pages\").childSelector(new UiSelector().clickable(true).instance(1))"
+}

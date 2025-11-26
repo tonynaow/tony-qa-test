@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiScrollable(new UiSelector().resourceId(\"org.wikipedia.alpha:id/search_results_list\").scrollable(true)).scrollIntoView(new UiSelector().text(\"Ancient Anatolian kingdom\"))"
+}
